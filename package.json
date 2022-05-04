@@ -1,6 +1,6 @@
 {
   "name": "DisneyPlus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "pkgrel": "1",
   "description": "Unofficial Disney+ desktop app",
   "main": "main.js",
@@ -19,7 +19,7 @@
   "author": "Corey Bruce",
   "license": "GPL",
   "devDependencies": {
-    "electron": "github:castlabs/electron-releases#v15.4.1-wvvmp",
+    "electron": "github:castlabs/electron-releases#v15.5.3-wvvmp",
     "electron-builder": "^22.14.5",
     "electron-packager": "^15.4.0"
   },
