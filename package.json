@@ -1,6 +1,6 @@
 {
   "name": "DisneyPlus",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "pkgrel": "1",
   "description": "Unofficial Disney+ desktop app",
   "main": "main.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/coreybruce/softwarebetatest.git"
+    "url": "https://gitlab.com/d6838.git"
   },
   "build": {
     "electronDownload": {
@@ -19,11 +19,11 @@
   "author": "Corey Bruce",
   "license": "GPL",
   "devDependencies": {
-    "electron": "github:castlabs/electron-releases#v15.5.3-wvvmp",
-    "electron-builder": "^22.14.5",
-    "electron-packager": "^15.4.0"
+    "electron": "github:castlabs/electron-releases#v17.4.11+wvcus",
+    "electron-builder": "^23.3.3",
+    "electron-packager": "^15.5.1"
   },
   "dependencies": {
-    "electron-context-menu": "^3.1.2"
+    "electron-context-menu": "^3.3.0"
   }
 }
