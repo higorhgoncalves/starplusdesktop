@@ -4,7 +4,7 @@ Unofficial Disney+ application, Open source and multi-platform for all platforms
 
 ## Version 1.0.2-2
 
-Enjoy all your Disnet+ content just like on the web version all wrapped up into a desktop application!
+Enjoy all your Disney+ content just like on the web version all wrapped up into a desktop application!
 
 
  ## Linux 64bit
