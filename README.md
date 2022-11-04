@@ -1,4 +1,4 @@
-![picture](https://i.imgur.com/U4Mm9hA.png)
+![picture](https://i.imgur.com/bKh3Im0.png)
 
 Unofficial Disney+ application, Open source and multi-platform for all platforms to use.
 
