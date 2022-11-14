@@ -1,10 +1,10 @@
 [Desktop Entry]
-Version=1.1
+Version=1.0
 Type=Application
-Name=Disney+
-Comment=Unofficial Disney+ desktop application
+Name=Star+
+Comment=Unofficial Star+ desktop application
 Icon=disneyplus
 Exec=disneyplus
 Actions=
 Categories=AudioVideo;Video;
-StartupWMClass=disneyplus
+StartupWMClass=starplus
