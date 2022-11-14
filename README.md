@@ -2,7 +2,7 @@
 
 Unofficial Star+ application, Open source and multi-platform for all platforms to use.
 
-## Version 1.0.2-2
+## Version 1.0
 
 Enjoy all your Star+ content just like on the web version all wrapped up into a desktop application!
 
