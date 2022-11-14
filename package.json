@@ -1,15 +1,15 @@
 {
-  "name": "DisneyPlus",
-  "version": "1.0.2",
+  "name": "StarPlus",
+  "version": "1.0",
   "pkgrel": "1",
-  "description": "Unofficial Disney+ desktop app",
+  "description": "Unofficial Star+ desktop app",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/d6838.git"
+    "url": "https://github.com/higorhgoncalves/starplusdesktop.git"
   },
   "build": {
     "electronDownload": {
