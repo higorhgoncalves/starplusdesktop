@@ -23,13 +23,5 @@ Enjoy all your Star+ content just like on the web version all wrapped up into a 
  - [Download](https://gitlab.com/disneyplusdesktop/binaries/1.0.2-1raw/main/DisneyPlus-x64.AppImage)
 
 
- ## Windows 64bit
-
- ### Windows Setup:
- - [Download](https://gitlab.com/disneyplusdesktop/binaries/1.0.2-1/-/raw/main/DisneyPlus%20Setup.exe)
-
- ### Zipped Portable File:
- - [Download](https://gitlab.com/disneyplusdesktop/binaries/1.0.2-1/-/raw/main/DisneyPlus-win32-x64.zip)
-
  ### Author
   * Corey Bruce
