@@ -31,7 +31,7 @@ function createWindow () {
   // and load the index.html of the app.
   mainWindow.loadFile('splash.html')
   setTimeout(function () {
-    mainWindow.loadURL('https://www.disneyplus.com/en-gb/login');
+    mainWindow.loadURL('https://www.starplus.com/pt-br/login');
   }, 3000) // Load store page after 3 secs
   mainWindow.maximize() // start maximized
   mainWindow.setMenuBarVisibility(false)
