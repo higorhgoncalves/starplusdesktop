@@ -1,16 +1,16 @@
-![picture](https://i.imgur.com/1scKut2.png)
+![picture](https://i.imgur.com/W0atJsa.png)
 
-Unofficial Disney+ application, Open source and multi-platform for all platforms to use.
+Unofficial Star+ application, Open source and multi-platform for all platforms to use.
 
 ## Version 1.0.2-2
 
-Enjoy all your Disney+ content just like on the web version all wrapped up into a desktop application!
+Enjoy all your Star+ content just like on the web version all wrapped up into a desktop application!
 
 
  ## Linux 64bit
 
- You can install Disney+ from the AUR for Arch/Manjaro distros.
- [Click Here](https://aur.archlinux.org/packages/disneyplus-bin)
+ You can install Star+ from the AUR for Arch/Manjaro distros.
+ [Click Here](https://aur.archlinux.org/packages/starplus-bin)
 
  ### Zipped Portable File:
 
